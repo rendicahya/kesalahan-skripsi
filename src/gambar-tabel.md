@@ -72,15 +72,15 @@ Hindari penggunaan warna sebagai satu-satunya cara untuk menunjukkan perbedaan d
 
 ---
 
-### 10. Larangan Penggunaan Warna pada Tabel
+### 11. Penulisan Simbol Operasi Perkalian dan Dimensi
 
-Hindari penggunaan warna latar belakang (*shading/fill*) pada sel atau baris di dalam tabel, kecuali untuk keperluan yang sangat mendesak. Struktur tabel dalam laporan ilmiah harus tetap bersih dan menggunakan format standar (hitam-putih).
+Operasi matematika perkalian atau penulisan dimensi ukuran tidak boleh ditulis menggunakan huruf "x" kecil, melainkan wajib menggunakan simbol perkalian yang benar, yaitu `×`.
 
----
+Salah:
+> Ukuran citra yang digunakan adalah 400x400 piksel.
 
-### 11. Penulisan Simbol Operasi Perkalian
-
-Operasi matematika perkalian tidak boleh ditulis menggunakan huruf "x" kecil, melainkan wajib menggunakan simbol perkalian yang benar, yaitu `×`.
+Benar:
+> Ukuran citra yang digunakan adalah 400×400 piksel.
 
 ---
 
