@@ -50,3 +50,40 @@ Suatu Gambar, Tabel, atau Persamaan yang dimasukkan ke dalam laporan harus perna
 ### 6. Peletakan Gambar atau Tabel Terhadap Paragraf Penyebutnya
 
 Suatu Gambar atau Tabel harus diletakkan setelah paragraf yang pertama kali menyebut atau merujuk Gambar atau Tabel tersebut, bukan diletakkan mendahuluinya.
+
+
+---
+
+### 7. Manajemen Ruang Kosong dan Penempatan Teks
+
+Hindari adanya ruang atau bagian halaman yang kosong secara berlebihan, kecuali pada halaman terakhir di suatu bab. Jika suatu gambar tidak cukup ruang untuk diletakkan pada halaman berjalan, maka teks paragraf berikutnya harus naik untuk mengisi bagian halaman yang kosong tersebut. Oleh karena itu, teks yang menjelaskan suatu gambar tidak harus berada persis setelah gambar tersebut.
+
+---
+
+### 8. Penghapusan Judul (*Caption*) di Atas Grafik
+
+*Caption* atau judul tambahan pada bagian atas grafik tidak diperlukan, karena penjelasan mengenai data atau variabel yang diukur sudah secara jelas diberikan pada bagian label sumbu (axis) atau legenda grafik.
+
+---
+
+### 9. Penggunaan Jenis Garis atau Tekstur pada Grafik
+
+Hindari penggunaan warna sebagai satu-satunya cara untuk menunjukkan perbedaan data atau kategori pada suatu grafik (agar tetap terlihat jelas saat dicetak hitam-putih). Gantikan atau kombinasikan penggunaan warna tersebut dengan variasi jenis garis (misalnya: garis putus-putus, garis titik) atau tekstur batang yang berbeda.
+
+---
+
+### 10. Larangan Penggunaan Warna pada Tabel
+
+Hindari penggunaan warna latar belakang (*shading/fill*) pada sel atau baris di dalam tabel, kecuali untuk keperluan yang sangat mendesak. Struktur tabel dalam laporan ilmiah harus tetap bersih dan menggunakan format standar (hitam-putih).
+
+---
+
+### 11. Penulisan Simbol Operasi Perkalian
+
+Operasi matematika perkalian tidak boleh ditulis menggunakan huruf "x" kecil, melainkan wajib menggunakan simbol perkalian yang benar, yaitu `×`.
+
+---
+
+### 12. Bentuk Notasi "Mulai" dan "Selesai" pada *Flowchart*
+
+Notasi terminator untuk menandai "Mulai" dan "Selesai" pada diagram alir (*flowchart*) bukan berbentuk oval sempurna, melainkan berbentuk *terminator* (persegi panjang dengan sudut kiri dan kanan yang melengkung/membulat).
