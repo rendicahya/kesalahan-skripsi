@@ -31,7 +31,7 @@ Buku saku ini bersifat terbuka dan menerima kontribusi dari siapapun. Jika Anda 
 5.  **Push** ke *branch* tersebut (`git push origin fitur/tambah-contoh-tata-bahasa`).
 6.  Ajukan *pull request* ke repositori utama ini.
 
-Jika Anda tidak terbiasa menggunakan Git tetapi menemukan kesalahan penulisan, Anda tetap bisa berkontribusi dengan cara membuka *[new issue](https://github.com/rendicahya/kesalahan-skripsi/issues)*.
+Jika Anda tidak terbiasa menggunakan Git tetapi menemukan kesalahan penulisan, Anda tetap bisa berkontribusi dengan cara membuka *[new issue](https://github.com/rendicahya/kesalahan-skripsi/issues)* atau mengirimkan surel langsung ke &#114;&#101;&#110;&#100;&#105;&#99;&#97;&#104;&#121;&#97;&#64;&#117;&#98;&#46;&#97;&#99;&#46;&#105;&#100;.
 
 ---
 
@@ -43,6 +43,10 @@ Anda bebas untuk menyalin, menyebarluaskan, menggandakan, dan mengubah isinya un
 
 Teks hukum lengkap dalam bahasa Indonesia dapat Anda lihat pada berkas `LICENSE` di repositori ini atau melalui tautan resmi [Creative Commons Indonesia](https://creativecommons.org/licenses/by/4.0/legalcode.id).
 
-**Disusun oleh:**  
-Randy Cahya Wihandika  
-Fakultas Ilmu Komputer, Universitas Brawijaya  
+---
+
+Disusun oleh:  
+Randy Cahya Wihandika, S.ST., M.Kom., Ph.D.  
+Fakultas Ilmu Komputer  
+Universitas Brawijaya  
+&#114;&#101;&#110;&#100;&#105;&#99;&#97;&#104;&#121;&#97;&#64;&#117;&#98;&#46;&#97;&#99;&#46;&#105;&#100;
