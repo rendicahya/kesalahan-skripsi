@@ -11,12 +11,12 @@ Dengan adanya dokumen berbasis Git ini, diharapkan proses pembimbingan skripsi m
 
 ## Daftar Isi
 
-*   [**Prakata**](src/prakata.md) — Latar belakang, tujuan, dan sifat pembaruan (*rolling update*) buku saku.
-*   [**Sitasi**](src/sitasi.md) — Aturan penulisan nama belakang, penggunaan tanda kurung, dan larangan menulis judul karya.
-*   [**Tata Bahasa**](src/tata-bahasa.md) — Panduan kalimat, prefiks di-/ke-, istilah asing (huruf miring), kapitalisasi metode, dan daftar kata baku.
-*   [**Gambar, Tabel, dan Persamaan**](src/gambar-tabel.md) — Aturan resolusi gambar, larangan *screenshot*, format hitam-putih, simbol perkalian ($\times$), dan *flowchart*.
-*   [**Kode Program**](src/kode-program.md) — Batasan substantif dan tata letak perataan teks untuk kode program.
-*   [**Lain-lain**](src/lain-lain.md) — Aturan nomor halaman sampul, angka penting pecahan, dan penyusunan batasan masalah.
+*   [**Prakata**](src/prakata.md)
+*   [**Sitasi**](src/sitasi.md)
+*   [**Tata Bahasa**](src/tata-bahasa.md)
+*   [**Gambar, Tabel, dan Persamaan**](src/gambar-tabel.md)
+*   [**Kode Program**](src/kode-program.md)
+*   [**Lain-lain**](src/lain-lain.md)
 
 ---
 
@@ -29,9 +29,9 @@ Buku saku ini bersifat terbuka dan menerima kontribusi dari siapapun. Jika Anda 
 3.  Lakukan perubahan pada berkas `.md` yang sesuai di dalam folder `src/`. Pastikan menggunakan format `Salah` dan `Benar` yang konsisten.
 4.  *Commit* perubahan Anda (`git commit -m 'Menambahkan contoh kesalahan kapitalisasi metode asing'`).
 5.  **Push** ke *branch* tersebut (`git push origin fitur/tambah-contoh-tata-bahasa`).
-6.  Ajukan **Pull Request** ke repositori utama ini.
+6.  Ajukan *pull request* ke repositori utama ini.
 
-Jika Anda tidak terbiasa menggunakan Git tetapi menemukan kesalahan penulisan, Anda tetap bisa berkontribusi dengan cara membuka *[new issue](https://github.com/rendicahya/kesalahan-skripsi/issues)* atau mengirimkan surel ke `rendicahya@ub.ac.id`.
+Jika Anda tidak terbiasa menggunakan Git tetapi menemukan kesalahan penulisan, Anda tetap bisa berkontribusi dengan cara membuka *[new issue](https://github.com/rendicahya/kesalahan-skripsi/issues)*.
 
 ---
 
@@ -46,4 +46,3 @@ Teks hukum lengkap dalam bahasa Indonesia dapat Anda lihat pada berkas `LICENSE`
 **Disusun oleh:**  
 Randy Cahya Wihandika  
 Fakultas Ilmu Komputer, Universitas Brawijaya  
-Surel: rendicahya@ub.ac.id
