@@ -18,4 +18,4 @@ Teks atau baris kode program di dalam laporan wajib ditulis dengan format **rata
 
 ### 3. Ketentuan Label Penamaan
 
-Kode program yang dimasukkan ke dalam dokumen laporan tidak boleh diberi label sebagai Gambar ataupun Tabel. Silakan baca dan pelajari [Buku Panduan Skripsi Versi 3.0](https://file-filkom.ub.ac.id/fileupload/assets/upload/filemanager/Skripsi/PanduanSkripsiFilkom-v3.0.pdf) halaman 51 mengenai ketentuan baku format penyisipan kode program.
+Kode program yang dimasukkan ke dalam dokumen laporan tidak boleh diberi label sebagai Gambar ataupun Tabel. Silakan baca dan pelajari [Buku Panduan Skripsi versi 3.0](https://file-filkom.ub.ac.id/fileupload/assets/upload/filemanager/Skripsi/PanduanSkripsiFilkom-v3.0.pdf) halaman 51 mengenai ketentuan baku format penyisipan kode program.
