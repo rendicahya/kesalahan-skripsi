@@ -16,48 +16,44 @@ Benar:
 
 ---
 
-### 2. Peletakan Tanda Kurung pada Sitasi di Awal/Tengah Kalimat
+### 2. Larangan Menuliskan Judul Karya di Kalimat Sitasi
 
-Jika nama penulis diletakkan di luar tanda kurung (sebagai subjek atau bagian dari kalimat), maka hanya tahun penerbitan saja yang diapit oleh tanda kurung.
+Judul karya yang disitasi tidak perlu ditulis di dalam kalimat laporan. Informasi judul secara lengkap hanya boleh dicantumkan pada bagian Daftar Pustaka.
 
 Salah:
-> Menurut (Wihandika, 2026), algoritme genetika dapat digunakan untuk mengoptimalkan penataan jadwal.
+> Pada buku yang ditulis oleh Alif (2013) yang berjudul “Komputasi Cerdas untuk Pemula”, disebutkan bahwa pembelajar pemula cenderung untuk berbeda dalam memandang konsep kecerdasan buatan.
 
 Benar:
-> Menurut Wihandika (2026), algoritme genetika dapat digunakan untuk mengoptimalkan penataan jadwal.
+> Pada buku yang ditulis oleh Alif (2013), disebutkan bahwa pembelajar pemula cenderung untuk berbeda dalam memandang konsep kecerdasan buatan.
 
 ---
 
-### 3. Larangan Menuliskan Judul Karya di Kalimat Sitasi
+---
 
-Kalimat sitasi dalam teks laporan tidak boleh menyertakan judul artikel, judul buku, atau judul jurnal ilmiah. Judul lengkap hanya boleh berada di daftar pustaka.
+### 3. Peletakan Tanda Kurung pada Sitasi di Awal/Tengah Kalimat
+
+Nama penulis yang ditulis pada awal atau tengah kalimat (sebagai subjek atau bagian dari kalimat mengalir) tidak boleh ditulis di dalam kurung. Hanya tahun penerbitan saja yang diapit oleh tanda kurung.
 
 Salah:
-> Dalam makalah berjudul *Image Upscaling and Facial Retouching Techniques*, Cahya (2026) menyatakan bahwa tekstur kulit harus tetap dipertahankan.
+> (Alif, 2013) menyebutkan bahwa pembelajar pemula cenderung untuk berbeda dalam memandang konsep kecerdasan buatan.
 
 Benar:
-> Cahya (2026) menyatakan bahwa tekstur kulit harus tetap dipertahankan saat melakukan perbaikan citra wajah.
+> Alif (2013) menyebutkan bahwa pembelajar pemula cenderung untuk berbeda dalam memandang konsep kecerdasan buatan.
+
+Salah:
+> Seperti disebutkan oleh (Alif, 2013), pembelajar pemula cenderung untuk berbeda dalam memandang konsep kecerdasan buatan.
+
+Benar:
+> Seperti disebutkan oleh Alif (2013), pembelajar pemula cenderung untuk berbeda dalam memandang konsep kecerdasan buatan.
 
 ---
 
-### 4. Penggunaan Kata Penghubung untuk Dua Penulis atau Lebih
+### 4. Penempatan Tanda Titik pada Sitasi di Akhir Kalimat
 
-Untuk sumber yang ditulis oleh dua orang, gunakan kata penghubung "dan" (jika kalimat berbahasa Indonesia) di dalam atau di luar tanda kurung. Jangan menggunakan simbol ampersand (`&`) jika sitasi ditulis mengalir dalam kalimat.
-
-Salah:
-> Sistem cerdas ini dikembangkan menggunakan metode logika fuzzy oleh Prasetyo & Utomo (2024).
-
-Benar:
-> Sistem cerdas ini dikembangkan menggunakan metode logika fuzzy oleh Prasetyo dan Utomo (2024).
-
----
-
-### 5. Aturan Sitasi Lebih dari Dua Penulis (*et al.*)
-
-Untuk sumber yang memiliki tiga penulis atau lebih, langsung tuliskan nama belakang penulis pertama diikuti dengan "dkk." (dan kawan-kawan) atau "*et al.*" sejak sitasi pertama. Pilih salah satu secara konsisten di seluruh laporan.
+Jika sitasi diletakkan pada akhir kalimat, tanda titik (`.`) sebagai penutup kalimat ditulis setelah tanda kurung penutup sitasi, bukan sebelum tanda kurung sitasi.
 
 Salah:
-> Berdasarkan penelitian yang dilakukan oleh (Rizky, Kurniawan, dan Saputra, 2025), akurasi model meningkat sebesar 15%.
+> Pembelajar pemula cenderung untuk berbeda dalam memandang konsep kecerdasan buatan. (Alif, 2013).
 
 Benar:
-> Berdasarkan penelitian yang dilakukan oleh Rizky dkk. (2025), akurasi model meningkat sebesar 15%.
+> Pembelajar pemula cenderung untuk berbeda dalam memandang konsep kecerdasan buatan (Alif, 2013).
